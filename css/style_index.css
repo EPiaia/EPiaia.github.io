@@ -1,0 +1,93 @@
+body {
+    background-image: linear-gradient(to bottom, #caf7f3, #8bf7ef);
+
+}
+
+.titulo {
+    text-align: center;
+    font-family: 'Zilla Slab', serif;
+    font-size: 45px;
+    font-weight: bold;
+
+}
+
+.menu {
+    position: sticky;
+    top: 0;
+    background-color: #c6f5f2;
+    border-bottom: 2px solid black;
+    width: 100%;
+    z-index: 1;
+}
+
+.links_menu {
+    color: black;
+    font-size: 30px;
+    font-family: 'Zilla Slab', serif;
+}
+
+.texto {
+    font-size: 25px;
+    color: black;
+    text-align: justify;
+    font-family: 'Zilla Slab', serif;
+}
+
+#foto_elon {
+    width: 170px;
+    height: 250px;
+    float: left;
+}
+
+.empresas {
+    color: black;
+    font-size: 35px;
+}
+
+.logo_horizontal {
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+}
+
+
+
+.logo_horizontal_menu {
+    width: 100px;
+    height: 50px;
+}
+
+.logo_vertical {
+    width: 100px;
+    height: 133px;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.logo_vertical_menu {
+    width: 40px;
+    height: 60px;
+}
+
+.nav-item {
+    margin-left: 15px;
+}
+
+.icon-bar {
+    color: black;
+}
+
+#rodape {
+    font-size: 25px;
+    font-family: 'Zilla Slab', serif;
+}
+
+#hr {
+    height: 1px;
+    background-color: black;
+    color: black;
+}
+
+li {
+    margin: 10px;
+}

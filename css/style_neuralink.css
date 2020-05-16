@@ -1,0 +1,67 @@
+body {
+    background-image: linear-gradient(to bottom, #caf7f3, #8bf7ef);
+}
+
+.menu {
+    position: sticky;
+    top: 0;
+    background-color: #c6f5f2;
+    border-bottom: 2px solid black;
+    width: 100%;
+    z-index: 1;
+}
+
+.logo_horizontal_menu {
+    width: 100px;
+    height: 50px;
+}
+
+.logo_vertical_menu {
+    width: 30px;
+    height: 50px;
+}
+
+.links_menu {
+    color: black;
+    font-size: 30px;
+    font-family: 'Zilla Slab', serif;
+}
+
+#hr {
+    height: 1px;
+    background-color: black;
+    color: black;
+}
+
+li {
+    margin: 10px;
+}
+
+#logo_neuralink {
+    width: 350px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.texto {
+    font-family: 'Zilla Slab', serif;
+    font-size: 25px;
+    text-align: justify;
+}
+
+.imagens {
+    width: 250px;
+    height: 200px;
+}
+
+#rodape {
+    font-size: 25px;
+    font-family: 'Zilla Slab', serif;
+}
+
+.legenda {
+    font-size: 20px;
+    font-family: 'Zilla Slab', serif;
+}
